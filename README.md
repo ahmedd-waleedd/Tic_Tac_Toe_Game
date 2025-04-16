@@ -19,8 +19,6 @@ A comprehensive C++ project featuring classic and advanced Tic-Tac-Toe variants,
 - [How to Build and Run](#how-to-build-and-run)
 - [How to Extend](#how-to-extend)
 - [Sample Console Output](#sample-console-output)
-- [Credits](#credits)
-- [License](#license)
 
 ---
 
